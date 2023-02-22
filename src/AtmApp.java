@@ -18,6 +18,6 @@ public class AtmApp {
         System.out.println("Bazi degisiklikler yaptim ama commitlemedimgit");
 
         //victor
-        System.out.println("");
+        System.out.println("Yeni degisiklikler");
     }
 }
