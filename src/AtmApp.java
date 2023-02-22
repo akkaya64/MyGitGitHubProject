@@ -12,6 +12,8 @@ public class AtmApp {
 
         //master
         System.out.println("Master branchinda yeni ozellikler var");
+        //victor
+        System.out.println("Victor brtanch i bir adim onde");
 
     }
 }
