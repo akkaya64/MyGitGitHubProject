@@ -7,6 +7,7 @@ public class AtmApp {
         System.out.println("Learn Java Earn money");
         //Version4
         System.out.println("This Is A Atm Project");
+        //Version vctr1
         System.out.println("victor branch i yeni bir ozellik ekledi");
 
     }
