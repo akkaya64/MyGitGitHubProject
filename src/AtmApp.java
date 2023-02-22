@@ -10,5 +10,8 @@ public class AtmApp {
         //Version vctr1
         System.out.println("victor branch i yeni bir ozellik ekledi");
 
+        //master
+        System.out.println("Master branchinda yeni ozellikler var");
+
     }
 }
