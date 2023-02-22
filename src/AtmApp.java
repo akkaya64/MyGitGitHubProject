@@ -15,5 +15,6 @@ public class AtmApp {
         //victor
         System.out.println("Victor brtanch i bir adim onde");
 
+        System.out.println("Bazi degisiklikler yaptim ama commitlemedimgit");
     }
 }
