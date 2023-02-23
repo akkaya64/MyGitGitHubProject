@@ -1,4 +1,4 @@
 public class Accaunt {
-    public String name;
+    public String name = "Victor";
 }
 
