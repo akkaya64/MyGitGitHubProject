@@ -19,5 +19,8 @@ public class AtmApp {
 
         //victor
         System.out.println("Yeni degisiklikler");
+
+        //master
+        System.out.println("Master baranchdeyim");
     }
 }
